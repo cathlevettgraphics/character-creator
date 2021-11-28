@@ -6,3 +6,7 @@
   text-align: center;
 }
 
+/* Use inhertit for links in text (if intention is links to be same color)  */
+.footer a {
+  color: inherit;
+}
